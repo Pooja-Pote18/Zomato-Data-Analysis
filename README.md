@@ -4,8 +4,13 @@ Zomato has an average of 17.5 million monthly transacting customers for its food
 
 Question-
 Q1. what type of restaurant do the majority of customer order from?
+
 Q2.How many votes has each type of restaurant received from customers? 
+
 Q3. What are rating that the majority of restaurant received?
+
 Q4.Zomato has observed that most couples order most of their food online. What is their average spending on each order?
+
 Q5.Which mode(online or offline) has received the maximum rating?
+
 Q6.Which type of restaurant received more offline orders, so that Zomato can customers with some good offers?
