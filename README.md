@@ -15,3 +15,8 @@ Q4.Zomato has observed that most couples order most of their food online. What i
 Q5.Which mode(online or offline) has received the maximum rating?
 
 Q6.Which type of restaurant received more offline orders, so that Zomato can customers with some good offers?
+
+
+
+
+<img width="603" height="340" alt="Image" src="https://github.com/user-attachments/assets/b078f2ff-a961-427f-8b0d-9fc374cee626" />
