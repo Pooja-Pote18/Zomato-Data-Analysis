@@ -19,4 +19,4 @@ Q6.Which type of restaurant received more offline orders, so that Zomato can cus
 
 
 
- <img width="803" height="440" alt="Image" src="https://github.com/user-attachments/assets/b078f2ff-a961-427f-8b0d-9fc374cee626" />
+ <img width="1003" height="440" alt="Image" src="https://github.com/user-attachments/assets/b078f2ff-a961-427f-8b0d-9fc374cee626" />
